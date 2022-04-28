@@ -1158,7 +1158,7 @@
     },
     {
       "fixtype": 1,
-      "fix": "Issue with skytils, make sure it's up to date.",
+      "fix": "Skytils ran into an error and crashed, make sure it's up to date. You can check for updates at <https://github.com/Skytils/SkytilsMod/releases> or get the SkyClientUpdater mod.",
       "causes": [
         {
           "method": "contains",
